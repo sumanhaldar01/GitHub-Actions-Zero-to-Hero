@@ -1,5 +1,5 @@
 # app.py
-# my first action test commit
+# my first commit
 def add(a, b):
     return a + b
 
